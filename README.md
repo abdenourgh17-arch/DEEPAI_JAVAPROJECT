@@ -108,5 +108,7 @@ classDiagram
 
 ---
 
-## 3. Mention relative à l'usage de l'IA générative
-Conformément aux consignes du cours, l'assistance d'outils d'IA générative a été utilisée avec parcimonie pour la structuration initiale de l'architecture UML et le brainstorming des cas de test. L'ensemble des règles de gestion orientée objet et du code Java a été implémenté et validé par le binôme.
+## 3. Mention relative à l'usage de l'IA
+Conformément aux consignes du sujet, l'usage de l'IA a été limité et encadré :
+- **Conception :** L'analyse des besoins, l'architecture orientée objet (choix de la classe abstraite `ModeleIA` et ses sous-classes, associations, gestion de la facturation et des tokens) a été entièrement conçue et validée par le binôme.
+- **Assistance IA :** L'IA générative a été utilisée uniquement comme outil d'accélération pour la mise en forme du fichier `README.md` et la transcription syntaxique du diagramme de classes en format Mermaid.
