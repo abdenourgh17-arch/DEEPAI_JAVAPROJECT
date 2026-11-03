@@ -105,5 +105,12 @@ classDiagram
 
 ## 3. Utilisation de l'IA générative
 Conformément aux consignes du TP :
-- La conception orientée-objet et la logique des classes ont été réfléchies par l'étudiant.
-- L'IA a servi avec parcimonie pour la mise en forme du fichier README et la syntaxe du diagramme Mermaid.
+La conception orientée objet ainsi que la logique des classes ont été réfléchies et définies par NOUS.
+
+L'IA a été utilisée comme un outil d'accompagnement pour mieux comprendre le sujet, les différentes méthodes et fonctions, ainsi que leur rôle dans le programme.
+
+Elle a également été sollicitée pour faciliter la gestion des méthodes répétitives, notamment les getters, ainsi que pour comprendre et structurer la fonction main.
+
+Enfin, l'IA a été utilisée ponctuellement pour améliorer la mise en forme du fichier README et la syntaxe du diagramme Mermaid.
+
+L'ensemble du code a été étudié et compris par NOUS, qui reste responsable des choix de conception et de l'implémentation.
