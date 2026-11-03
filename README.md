@@ -3,7 +3,7 @@
 Projet de Programmation Orientée Objet (POO) en Java pour la plateforme **DeepAI**.
 
 ## Auteurs (Binôme)
-- Étudiant : Abdenour GH
+- Étudiant : Abdenour GAHFIF et ghoulam TOUAREF
 - Université de Corse - gueniot_f@univ-corse.fr
 
 ---
