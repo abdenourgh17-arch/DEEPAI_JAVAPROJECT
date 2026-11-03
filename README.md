@@ -3,8 +3,9 @@
 Projet de Programmation Orientée Objet (Java) - Université de Corse
 
 ## Auteur
-- **Étudiant :** Abdenour GH
+- **Étudiant :** Abdenour GAHFIF  Ghoulam TOUAREF
 - **Enseignant :** gueniot_f@univ-corse.fr
+- équipe: 04
 
 ---
 
